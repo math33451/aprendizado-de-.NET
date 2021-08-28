@@ -1,0 +1,13 @@
+C:\workspace\estudo de csharp\Estudo\bin\Debug\netcoreapp3.1\Estudo.exe
+C:\workspace\estudo de csharp\Estudo\bin\Debug\netcoreapp3.1\Estudo.deps.json
+C:\workspace\estudo de csharp\Estudo\bin\Debug\netcoreapp3.1\Estudo.runtimeconfig.json
+C:\workspace\estudo de csharp\Estudo\bin\Debug\netcoreapp3.1\Estudo.runtimeconfig.dev.json
+C:\workspace\estudo de csharp\Estudo\bin\Debug\netcoreapp3.1\Estudo.dll
+C:\workspace\estudo de csharp\Estudo\bin\Debug\netcoreapp3.1\Estudo.pdb
+C:\workspace\estudo de csharp\Estudo\obj\Debug\netcoreapp3.1\Estudo.csprojAssemblyReference.cache
+C:\workspace\estudo de csharp\Estudo\obj\Debug\netcoreapp3.1\Estudo.AssemblyInfoInputs.cache
+C:\workspace\estudo de csharp\Estudo\obj\Debug\netcoreapp3.1\Estudo.AssemblyInfo.cs
+C:\workspace\estudo de csharp\Estudo\obj\Debug\netcoreapp3.1\Estudo.csproj.CoreCompileInputs.cache
+C:\workspace\estudo de csharp\Estudo\obj\Debug\netcoreapp3.1\Estudo.dll
+C:\workspace\estudo de csharp\Estudo\obj\Debug\netcoreapp3.1\Estudo.pdb
+C:\workspace\estudo de csharp\Estudo\obj\Debug\netcoreapp3.1\Estudo.genruntimeconfig.cache
